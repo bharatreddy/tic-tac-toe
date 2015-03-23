@@ -1,0 +1,59 @@
+#gamezone {
+    width:425px;
+    margin-top:10px;
+    margin-bottom: 15px;
+    background-color: gray;
+    padding: 5px;
+    box-shadow: 0px 5px 5px gray;
+}
+#reset {
+    margin: auto;
+}
+
+.blank {
+    background: transparent;
+    max-width: 150px;
+}
+
+.X {
+    background: transparent;
+    max-width: 150px;
+}
+
+.O {
+    background: transparent;
+    max-width: 150px;
+}
+
+.blank img:hover {
+  outline: 5px outset gray;
+}
+.modal-dialog{
+    padding-top: 10px;
+}
+
+.img-responsive .carousel {
+    height:100px;
+}
+
+.postbox {
+    background-color: #DDDDDD;
+    border-radius: 10px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+html{
+    background: rgb(56,56,56); /* Old browsers */
+    
+
+}
+
+body{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: steelblue;
+    background: rgb(56,56,56); /* Old browsers */
+    
+
+}
